@@ -1,0 +1,7 @@
+networkx
+matplotlib
+experta==1.9.4
+
+
+# docker compose run --rm mapa python index.py
+# docker compose run --rm mapa python busca_gulosa.py
